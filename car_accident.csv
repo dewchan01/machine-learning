@@ -1,0 +1,11 @@
+Weather,Drinking,Car Speed,Accident
+Rain,No,High,Yes
+Rain,Yes,High,Yes
+Rain,No,Low,No
+Rain,Yes,Low,Yes
+Rain,No,Average,Yes
+No Rain,No,Low,No
+No Rain,No,High,No
+No Rain,Yes,Average,Yes
+No Rain,Yes,Low,No
+No Rain,No,Average,No
